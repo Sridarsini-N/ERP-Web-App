@@ -12,4 +12,3 @@ function modelController() {
 }
 
 module.exports = modelController();
-//..........
